@@ -26,7 +26,5 @@ The forecast is completed using the Facebook Prophet forecasting package.
 The documentation can be found: https://facebook.github.io/prophet/docs/quick_start.html#python-api
 
 
-### Results
-
 
 
